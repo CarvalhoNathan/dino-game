@@ -3,15 +3,11 @@
 
 ![screenshot](example.png?raw=true "screenshot")
 
-
 - <a href="https://carvalhonathan.github.io/dino-game/" target="_blank">Clique aqui para jogar.</a>
 
 ## Requisitos
 - IDE.
 - Navegador.
 
-## Licença
+## Licença 📃
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
-
-## Comandos
-Pular: botão de espaço.
